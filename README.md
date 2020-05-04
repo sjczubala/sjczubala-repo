@@ -1,1 +1,1 @@
-#Repository of Sebastian Czubala
+Repository of Sebastian Czubala
