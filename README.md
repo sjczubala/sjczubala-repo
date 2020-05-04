@@ -1,1 +1,1 @@
-# sjczubala-repo
+#Repository of Sebastian Czubala
