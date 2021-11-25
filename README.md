@@ -1,1 +1,1 @@
-Repository of Sebastian Czubala
+Projects from 1st year of University
